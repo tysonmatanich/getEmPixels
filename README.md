@@ -5,6 +5,10 @@ Allows you to accurately obtain an element’s em value in pixels using JavaScri
 * Author: Tyson Matanich - http://matanich.com
 * License: MIT
 
+**Demo:** http://www.matanich.com/examples/get-em-pixels/
+
+**Article:** http://www.matanich.com/2013/06/24/em-values-javascript/
+
 ## The basics
 
 GetEmPixels is simple to use and has only one function.
