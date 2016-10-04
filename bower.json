@@ -1,0 +1,14 @@
+{
+  "name": "GetEmPixels",
+  "description": "Allows you to accurately obtain an element’s em value in pixels using JavaScript. No more blindly dividing by hard-coded values.",
+  "homepage": "https://github.com/tysonmatanich/getEmPixels",
+  "author": "Tyson Matanich",
+  "main": [
+    "getEmPixels.js"
+  ],
+  "ignore": [
+    "getEmPixels.js",
+    "README.md"
+  ],
+  "dependencies": {}
+}
