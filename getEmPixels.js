@@ -24,7 +24,8 @@
         element.appendChild(testElement);
 
         // Get the client width of the test element
-        var value = testElement.clientWidth;
+        var value = window.getComputedStyle(testElement).width;
+        value = parseFloat(value.replace('px', ''));
 
         if (extraBody) {
             // Remove the extra body element
